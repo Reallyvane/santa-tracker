@@ -1,36 +1,61 @@
-# 🍃 Next.js Leaflet Starter
+# Santa Tracker
 
-Jumpstart your new Next.js mapping project with Leaflet!
+Utilizies React Leaflet, Next.js, and Google's unofficial Santa Tracker API to show Santa's location and the presents delivered.
 
-## ⚡ Quick Deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/next-leaflet-starter) [![Deploy with Vercel Now](https://zeit.co/button)](https://vercel.com/import/project?template=https://github.com/colbyfayock/next-leaflet-starter)
+## Table of contents
 
+- [Overview](#overview)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Demo](#demo)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Layout](#layout)
+- [Author](#author)
 
-## 🧰 What This Includes
-* [Yarn](https://yarnpkg.com/en/)
-* [Next.js](https://nextjs.org/)
-* [Leaflet](https://leafletjs.com/)
-* [React Leaflet](https://react-leaflet.js.org)
+## Overview
 
-## 🚀 Getting Started
+### Features
 
-### Requirements
-* [Yarn](https://yarnpkg.com/en/)
+Users should be able to:
 
-### Quick Start
-```
-yarn create next-app -e https://github.com/colbyfayock/next-leaflet-starter
-# or
-npm run create-next-app -e https://github.com/colbyfayock/next-leaflet-starter
-```
+- View the optimal layout for the tracker depending on their device's screen size
+- Track Santa's current location
+- See expected arrival and departure times
 
-### Running the Project
-First, run the development server:
+To be added:
 
-```bash
-yarn dev
-```
+- Santa's path
+- Santa's location inbetween destinations
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Screenshots
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Desktop Home Screen](./public/design/santa%20tracker%20desktop.png)
+![Mobile Home Screen](./public/design/santa%20tracker%20mobile.png)
+
+### Demo
+
+- Live Site: [Vercel]()
+
+## My process
+
+### Built with
+
+- [Next.js](https://nextjs.org/)
+- [Leaflet](https://leafletjs.com/)
+- [React Leaflet](https://react-leaflet.js.org)
+- [Sass](https://sass-lang.com)
+- [SWR](https://swr.vercel.app)
+- [Mapbox](https://www.mapbox.com/)
+
+### Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Author
+
+- Instagram - [@nesdevs](https://www.instagram.com/nesdevs/)
+- Twitter - [@officialnesdevs](https://www.twitter.com/officialnesdevs)
