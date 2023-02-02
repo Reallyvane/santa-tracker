@@ -14,7 +14,7 @@ const Header = () => {
         </p>
         <ul className={styles.headerLinks}>
           <li>
-            <a href="https://github.com" rel="noreferrer">
+            <a href="https://github.com/Reallyvane/santa-tracker" rel="noreferrer">
               <FaGithub />
             </a>
           </li>
