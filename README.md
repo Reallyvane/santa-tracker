@@ -35,7 +35,7 @@ To be added:
 
 ### Demo
 
-- Live Site: [Vercel]()
+- Live Site: [Vercel](https://santa-tracker-teal.vercel.app)
 
 ## My process
 
